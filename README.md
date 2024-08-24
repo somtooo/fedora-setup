@@ -11,14 +11,6 @@ This repository contains instructions to set up my [Fedora Workstation](https://
 ![Fedora shot](images/Screenshot4.png "Fedora shot")
 
 
-![Fedora ScreenShots](images/Screenshot02.png "Fedora ScreenShots")
-
-
-![Fedora ScreenShots]("images/Screenshot03.png")
-
-![Fedora ScreenShots]("images/Screenshot04.png")
-
-
 ## Update the OS
 
 The first thing you should do is go to gnome-software app, add third party repos and update the system to latest's
