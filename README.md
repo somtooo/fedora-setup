@@ -2,7 +2,7 @@
 
 This repository contains instructions to set up my [Fedora Workstation](https://fedoraproject.org/) for developing backend/ system software.
 
-![Fedora ScreenShots](images/Screenshot01.png "First shot")
+![Pop!_OS desktop screenshot with Tilix, Visual Studio Code, and Gnome Tweak Tool, displayed and the Arc Dark theme](images/Screenshot1.png "Pop!_OS desktop screenshot with Tilix, Visual Studio Code, and Gnome Tweak Tool, displayed and the Arc Dark theme")
 
 ![Fedora ScreenShots]("images/Screenshot02.png")
 
