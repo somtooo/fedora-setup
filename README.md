@@ -2,7 +2,7 @@
 
 This repository contains instructions to set up my [Fedora Workstation](https://fedoraproject.org/) for developing backend/ system software.
 
-![Fedora ScreenShots]("images/Screenshot01.png")
+![Fedora ScreenShots](images/Screenshot01.png "First shot")
 
 ![Fedora ScreenShots]("images/Screenshot02.png")
 
