@@ -67,8 +67,52 @@ wget -P ~/.local/share/fonts https://github.com/ryanoasis/nerd-fonts/releases/do
 ## Extensions and settings
 1. Disable gnome alert sound in settings -> sound.
 
-Extensions configs:
+Install these extensions using extenison manager:
+```
+AppIndicator and KStatusNotifierItem Support \
+Blur my Shell \
+Clipboard Indicator \
+Extension List \
+Just Perfection \
+Hide top bar \
+User themes \
+Pop Shell - 
+Install using this commands:
+sudo dnf install -y --setopt=exclude=gnome-shell-extension-pop-shell-shortcut-overrides gnome-shell-extension-pop-shell
 
+```
+Extensions configs:
+User themes:
+
+
+1. [Install WhiteSur-gtk-theme](https://github.com/vinceliuice/WhiteSur-gtk-theme)
+```
+./install.sh -l -c Dark -t blue -N mojave -HD --right --darker --round -i fedora
+sudo flatpak override --filesystem=xdg-config/gtk-4.0
+sudo ./tweaks.sh -g -c Dark -i apple
+
+From docs install gdm theme
+
+[WhiteSur icon theme](https://github.com/vinceliuice/WhiteSur-icon-theme) - install alt version
+[WhiteSur Wallpapers](https://github.com/vinceliuice/WhiteSur-wallpapers)
+
+```
+
+
+Use gnome tweaks to set themes correctly
+
+
+Clipboard Indicator:
+
+Use ctrl + shift + v to open clipboard panel in settings.
+
+Just Perfection:
+
+Visibility - Search, Off
+Behaviour -  Always show Workspace Switcher, On
+Customize - Animation, Fast; Dash icon size = 48 on pc and 40 on laptop
+
+Enable all extensions with extenstion list
 
 ## Increase the inotify watch count
 
