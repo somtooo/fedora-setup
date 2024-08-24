@@ -67,6 +67,9 @@ wget -P ~/.local/share/fonts https://github.com/ryanoasis/nerd-fonts/releases/do
 ## Extensions and settings
 1. Disable gnome alert sound in settings -> sound.
 
+Extensions configs:
+
+
 ## Increase the inotify watch count
 
 When working with Dropbox, React, and NodeJS, you may run into the following error: "User limit of inotify watches reached". The default limit for file watchers is 8,192. Increase this limit to something more reasonable:
