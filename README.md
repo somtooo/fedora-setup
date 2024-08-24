@@ -4,6 +4,13 @@ This repository contains instructions to set up my [Fedora Workstation](https://
 
 ![Fedora shot](images/Screenshot1.png "Fedora shot")
 
+![Fedora shot](images/Screenshot2.png "Fedora shot")
+
+![Fedora shot](images/Screenshot3.png "Fedora shot")
+
+![Fedora shot](images/Screenshot4.png "Fedora shot")
+
+
 ![Fedora ScreenShots](images/Screenshot02.png "Fedora ScreenShots")
 
 
