@@ -1,0 +1,17 @@
+keypress_delay_ms: 10
+
+# `modmap` section
+# For key-to-key remapping (no combinations). Remapping a key to a modifier key (e.g. CapsLock to Control_L) is supported only in `modmap` section
+modmap:
+  - name: Make ⌘ act as Ctrl
+#    application:
+#      not: [gnome-terminal-server, org.gnome.Console]
+    remap:
+      LeftCtrl: LeftCtrl
+      CapsLock: LeftMeta
+      LeftAlt: LeftCtrl
+      RightCtrl: RightAlt
+      LeftMeta: LeftAlt
+      RightAlt: RightCtrl
+# `keymap` section
+# For remapping a sequence of key combinations to another sequence of key combinations
