@@ -125,4 +125,5 @@ Enable all extensions with extension list
 
 ## Mac os Key remap 
 Setup - https://github.com/petrstepanov/gnome-macos-remap-wayland?tab=readme-ov-file 
+
 Replace .config.yml in repo with macos-remap/config.yml in this repo.
