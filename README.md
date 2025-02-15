@@ -95,7 +95,7 @@ User themes:
 
 1. [Install WhiteSur-gtk-theme](https://github.com/vinceliuice/WhiteSur-gtk-theme)
 ```
-./install.sh -l -c Dark -t blue -N mojave -HD --right --darker --round -i fedora
+./install.sh -l -c dark -t blue -N mojave -HD --right --darker --round --shell -i fedora
 sudo flatpak override --filesystem=xdg-config/gtk-4.0
 sudo ./tweaks.sh -g -c Dark -i apple
 
